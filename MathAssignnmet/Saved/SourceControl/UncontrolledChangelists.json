@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/max.palsson/OneDrive - Change Maker Education/Documents/Unreal Projects/MathAssignnmet/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/max.palsson/OneDrive - Change Maker Education/Documents/Unreal Projects/MathAssignnmet/Content/NewMap.umap",
+				"C:/Users/max.palsson/OneDrive - Change Maker Education/Documents/Unreal Projects/MathAssignnmet/Content/Developers/maxpalsson/Collections/CubesTransform.uasset",
+				"C:/Users/max.palsson/OneDrive - Change Maker Education/Documents/Unreal Projects/MathAssignnmet/Content/StateAndContext.umap"
+			]
+		}
+	]
+}
